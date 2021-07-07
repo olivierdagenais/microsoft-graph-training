@@ -1,0 +1,43 @@
+### YamlMime:Tutorial
+title: Build Bot Framework bots with Microsoft Graph
+metadata:
+  title: Build Bot Framework bots with Microsoft Graph
+  description: In this tutorial, you'll build a Bot Framework project that uses Microsoft identity platform for authentication and Microsoft Graph for retrieving calendar data.
+  audience: Developer
+  level: Beginner
+  displayType: one-column
+  ms.date: 09/16/2020
+  author: ngwenyathu
+  ms.author: mekhumal
+  ms.topic: tutorial
+  ms.custom: scenarios:getting-started
+items:
+- durationInMinutes: 1
+  content: |
+    [!INCLUDE [](bot-framework/tutorial/01-intro.md)]
+- title: Create a Bot Framework Composer project
+  durationInMinutes: 7
+  content: |
+    [!INCLUDE [](bot-framework/tutorial/02-create-app.md)]
+- title: Register the bot in the portal
+  durationInMinutes: 10
+  content: |
+    [!INCLUDE [](bot-framework/tutorial/03-register-app.md)]
+- title: Add Microsoft identity platform authentication
+  durationInMinutes: 15
+  content: |
+    [!INCLUDE [](bot-framework/tutorial/04-add-authentication.md)]
+- title: Get user details with Microsoft Graph
+  durationInMinutes: 10
+  content: |
+    [!INCLUDE [](bot-framework/tutorial/05-get-user-details.md)]
+- title: Get a calendar view
+  durationInMinutes: 10
+  content: |
+    [!INCLUDE [](bot-framework/tutorial/06-get-calendar.md)]
+- title: Create a new event
+  durationInMinutes: 10
+  content: |
+    [!INCLUDE [](bot-framework/tutorial/07-add-event.md)]
+- content: |
+    [!INCLUDE [](bot-framework/tutorial/08-completed.md)]

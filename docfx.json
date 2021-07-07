@@ -22,6 +22,7 @@
           "tutorials/azure-functions/**",
           "tutorials/blazor/**",
           "tutorials/bot-framework/**",
+          "tutorials/bot-framework-composer/**",
           "tutorials/dotnet-core/**",
           "tutorials/ios-objectivec/**",
           "tutorials/ios-swift/**",
