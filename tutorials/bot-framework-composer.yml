@@ -14,30 +14,30 @@ metadata:
 items:
 - durationInMinutes: 1
   content: |
-    [!INCLUDE [](bot-framework/tutorial/01-intro.md)]
+    [!INCLUDE [](bot-framework-composer/tutorial/01-intro.md)]
 - title: Create a Bot Framework Composer project
   durationInMinutes: 7
   content: |
-    [!INCLUDE [](bot-framework/tutorial/02-create-app.md)]
+    [!INCLUDE [](bot-framework-composer/tutorial/02-create-app.md)]
 - title: Register the bot in the portal
   durationInMinutes: 10
   content: |
-    [!INCLUDE [](bot-framework/tutorial/03-register-app.md)]
+    [!INCLUDE [](bot-framework-composer/tutorial/03-register-app.md)]
 - title: Add Microsoft identity platform authentication
   durationInMinutes: 15
   content: |
-    [!INCLUDE [](bot-framework/tutorial/04-add-authentication.md)]
+    [!INCLUDE [](bot-framework-composer/tutorial/04-add-authentication.md)]
 - title: Get user details with Microsoft Graph
   durationInMinutes: 10
   content: |
-    [!INCLUDE [](bot-framework/tutorial/05-get-user-details.md)]
+    [!INCLUDE [](bot-framework-composer/tutorial/05-get-user-details.md)]
 - title: Get a calendar view
   durationInMinutes: 10
   content: |
-    [!INCLUDE [](bot-framework/tutorial/06-get-calendar.md)]
+    [!INCLUDE [](bot-framework-composer/tutorial/06-get-calendar.md)]
 - title: Create a new event
   durationInMinutes: 10
   content: |
-    [!INCLUDE [](bot-framework/tutorial/07-add-event.md)]
+    [!INCLUDE [](bot-framework-composer/tutorial/07-add-event.md)]
 - content: |
-    [!INCLUDE [](bot-framework/tutorial/08-completed.md)]
+    [!INCLUDE [](bot-framework-composer/tutorial/08-completed.md)]
